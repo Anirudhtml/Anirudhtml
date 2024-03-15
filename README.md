@@ -1,4 +1,9 @@
-<h2 align="left">Hey, Anirudh here</h2>
+<h1 align="center">Anirudh Gupta</h1>
+<p align="center">Founder & Full-Stack Developer @ Dioscuri.ca</p>
+
+###
+
+<h2 align="left">Tools / Skills :</h2>
 
 ###
 
@@ -30,6 +35,10 @@
 
 ###
 
+<h2 align="left">Reach me through :</h2>
+
+###
+
 <div align="left">
   <a href="https://www.linkedin.com/in/anirudhgupta905/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
@@ -43,6 +52,6 @@
 
 ###
 
-<img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNm1rdWR5aWhlMzlycTg2dXAxZ3I2aHI0dDMxODNqZ2E4Yjl0aXlneCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dvsjHZc6P3oozpp9I4/giphy.gif"  />
+<img align="center" height="160" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNm1rdWR5aWhlMzlycTg2dXAxZ3I2aHI0dDMxODNqZ2E4Yjl0aXlneCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dvsjHZc6P3oozpp9I4/giphy.gif"  />
 
 ###
